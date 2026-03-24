@@ -15,13 +15,13 @@
           to="/unica" 
           class="px-8 py-4 bg-indigo-500 hover:bg-indigo-600 text-white font-medium rounded-xl transition-all duration-200 hover:scale-105 hover:shadow-lg hover:shadow-indigo-500/25"
         >
-          Unica
+          Single Word
         </router-link>
         <router-link 
           to="/lista" 
           class="px-8 py-4 bg-slate-700 hover:bg-slate-600 text-white font-medium rounded-xl transition-all duration-200 hover:scale-105 border border-slate-600"
         >
-          Lista
+          All Words
         </router-link>
       </div>
     </div>

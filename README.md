@@ -63,6 +63,10 @@ A aplicação consome um Backend For Frontend (BFF) que integra com a API da Ope
 
 ---
 
+## 📊 Lighthouse Report
+
+![Lighthouse Report](./Lighthouse.pdf)
+
 ## 📦 Pré-requisitos
 
 - **Node.js** versão 18 ou superior

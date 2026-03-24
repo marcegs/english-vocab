@@ -8,10 +8,10 @@
         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
         </svg>
-        Voltar
+        Back
       </router-link>
 
-      <h1 class="text-3xl font-bold text-white mb-8">Todas as Palavras</h1>
+      <h1 class="text-3xl font-bold text-white mb-8">All Words</h1>
 
       <div v-if="loading" class="flex items-center justify-center py-20">
         <div class="w-12 h-12 border-4 border-indigo-500 border-t-transparent rounded-full animate-spin"></div>
